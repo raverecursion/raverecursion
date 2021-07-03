@@ -40,8 +40,8 @@ I am a fullstack web developer from Hungary
 ### 👨‍💻 Programming languages
 
 <p>
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
   <a href="#"><img alt="JavaScript"
       src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="NodeJS"
@@ -65,15 +65,18 @@ I am a fullstack web developer from Hungary
   <a href="#"><img alt="React"
       src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="#"> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white" /></a>
+  <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?logo=next.js&logoColor=white"/>
   <a href="#"><img alt="Express.js"
       src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
   <a href="#"><img alt="GitHub Actions"
       src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325&logo=jest&logoColor=white" />
   <a href="#"><img alt="Material Design"
       src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
   <img alt="TailwindCSS"
     src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325&logo=jest&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white"/>
+
 
 
 </p>
