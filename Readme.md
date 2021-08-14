@@ -8,15 +8,10 @@ I am a fullstack web developer from Hungary
 - 🌱 Learning design patterns in depth
 <br>
 
-## 📘 My top open source projects
-
-
 <p align="left">
   <a href="https://github.com/innellea?tab=repositories"><img alt="All Repositories" title="All Repositories"
       src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIGhlaWdodD0iMTYiIHdpZHRoPSIxNiI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiAyLjVBMi41IDIuNSAwIDAxNC41IDBoOC43NWEuNzUuNzUgMCAwMS43NS43NXYxMi41YS43NS43NSAwIDAxLS43NS43NWgtMi41YS43NS43NSAwIDExMC0xLjVoMS43NXYtMmgtOGExIDEgMCAwMC0uNzE0IDEuNy43NS43NSAwIDAxLTEuMDcyIDEuMDVBMi40OTUgMi40OTUgMCAwMTIgMTEuNXYtOXptMTAuNS0xVjloLThjLS4zNTYgMC0uNjk0LjA3NC0xIC4yMDhWMi41YTEgMSAwIDAxMS0xaDh6TTUgMTIuMjV2My4yNWEuMjUuMjUgMCAwMC40LjJsMS40NS0xLjA4N2EuMjUuMjUgMCAwMS4zIDBMOC42IDE1LjdhLjI1LjI1IDAgMDAuNC0uMnYtMy4yNWEuMjUuMjUgMCAwMC0uMjUtLjI1aC0zLjVhLjI1LjI1IDAgMDAtLjI1LjI1eiIgIGZpbGw9IiNmZmYiLz48L3N2Zz4=" /></a>
 </p>
-
-## 📕 Top projects I've contributed to
 
 
 ## 🙋‍♂️ Connect with me
@@ -71,8 +66,7 @@ I am a fullstack web developer from Hungary
   <a href="#"><img alt="GitHub Actions"
       src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
     <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325&logo=jest&logoColor=white" />
-  <a href="#"><img alt="Material Design"
-      src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
+ 
   <img alt="TailwindCSS"
     src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white"/>
@@ -103,14 +97,11 @@ I am a fullstack web developer from Hungary
 ### 💻 Software and tools
 
 <p>
-  <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   <a href='#'> <img alt="Adobe XD"
       src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?logo=adobexd&logoColor=white"></a>
   <a href='#'> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white" />
   </a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Google Sheets"
-      src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow"
       src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
@@ -146,5 +137,3 @@ I am a fullstack web developer from Hungary
 
 <a><img
     src="https://activity-graph.herokuapp.com/graph?username=innellea&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-###### Github stats by [DenverCoder1](https://github.com/DenverCoder1/)
