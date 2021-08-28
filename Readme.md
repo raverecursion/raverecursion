@@ -14,13 +14,13 @@ I am a fullstack web developer from Manchester
 </p>
 
 
-## 🙋‍♂️ Connect with me
+<!-- ## 🙋‍♂️ Connect with me
 
 <p align="center">
   <a href="https://dev.to/!!TODO REPLACE "><img alt="Dev.to" title="Innellea Dev.to"
       src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
-
+ -->
 ## 🔥 Streak stats
 <p align="center">
   <a href="#">
